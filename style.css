@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0;
+    border-style:"border-box";
+    
+}
+body{
+    background:url('https://img.freepik.com/free-vector/flat-design-comic-style-background_23-2148813955.jpg?w=1060&t=st=1694057297~exp=1694057897~hmac=412b6c8b279f92a877c5a0242f84f564df3d6ff746dc7623955292b02886811b');
+    background-size:1500px 690px;                    
+    background-repeat:no-repeat;
+    background-position: center top;
+
+}
+#container{
+    /* border: 2px solid greenyellow; */
+    margin: 265px auto;
+    text-align: center;
+    width: 550px;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+#heading{
+  margin: 30px auto;
+  text-align: center;
+}
+
+#joke{
+    margin: 20px auto;
+    text-align: center;
+}
+
+button{
+    padding: 10px 30px;
+    font-size: 20px;
+    background-color: bisque;
+    color: black;
+    border-radius: 5px;
+    margin: 10px;
+}
